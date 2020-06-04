@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background= "#4A148C"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:layout_marginTop= "40dp"
+        android:layout_centerHorizontal= "true"
+        android:textSize= "30sp"
+        android:textColor= "#ffffff"
+        android:text= "DOĞRU MU? YANLIŞ MI?"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content" />
+    <TextView
+        android:layout_marginTop= "100dp"
+        android:layout_marginLeft="50dp"
+        android:textSize= "20sp"
+        android:textColor= "#ffffff"
+        android:text= "Lütfen seviye seçiniz."
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content" />
+    <LinearLayout
+        android:layout_centerInParent= "true"
+        android:orientation= "vertical"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content">
+
+        <RelativeLayout
+            android:id= "@+id/kly"
+            android:background= "#4caf50"
+            android:layout_margin= "10dp"
+            android:layout_width= "200dp"
+            android:layout_height= "40dp"
+            >
+            <TextView
+                android:textSize= "20sp"
+                android:textColor= "#ffffff"
+                android:layout_centerInParent= "true"
+                android:text= "Kolay"
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content" />
+
+            <TextView
+
+                android:id="@+id/b_kly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="Skor"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id= "@+id/ort"
+            android:background= "#ffa500"
+            android:layout_margin= "10dp"
+            android:layout_width= "200dp"
+            android:layout_height= "40dp"
+            >
+            <TextView
+                android:textSize= "20sp"
+                android:textColor= "#ffffff"
+                android:layout_centerInParent= "true"
+                android:text= "Orta"
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content" />
+
+            <TextView
+
+                android:id="@+id/b_ort"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="Skor"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id= "@+id/zor"
+            android:background= "#ff00"
+            android:layout_margin= "10dp"
+            android:layout_width= "200dp"
+            android:layout_height= "40dp"
+            >
+            <TextView
+                android:textSize= "20sp"
+                android:textColor= "#ffffff"
+                android:layout_centerInParent= "true"
+                android:text= "Zor"
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content" />
+
+            <TextView
+
+                android:id= "@+id/b_zor"
+                android:layout_marginRight= "5dp"
+                android:textColor= "#ffffff"
+                android:layout_centerVertical= "true"
+                android:layout_alignParentRight= "true"
+                android:text= "Skor"
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content" />
+        </RelativeLayout>  </LinearLayout>
+
+    <TextView
+        android:layout_centerHorizontal= "true"
+        android:id= "@+id/textView"
+        android:layout_marginBottom= "80dp"
+        android:layout_alignParentBottom= "true"
+        android:textSize= "12sp"
+        android:layout_above="@+id/kullaniciadi"
+        android:textColor= "#ffffff"
+        android:text= "Hoşgeldin"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content" />
+
+    <TextView
+        android:layout_centerHorizontal= "true"
+        android:id= "@+id/kullaniciadi"
+        android:layout_marginBottom= "59dp"
+        android:layout_alignParentBottom= "true"
+        android:textSize= "18sp"
+        android:textColor= "#ffffff"
+        android:text= "Kullanıcı"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content" />
+
+    <ImageView
+        android:id="@+id/kaydi_duzenle"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_toEndOf="@+id/kullaniciadi"
+        android:src="@drawable/ic_action_kullaniciadi" />
+
+
+</RelativeLayout>

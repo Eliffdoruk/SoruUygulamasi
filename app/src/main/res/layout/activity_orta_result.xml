@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4A148C"
+    tools:context=".OrtaResultActivity">
+    <TextView
+
+        android:textColor="#fff"
+        android:id="@+id/tv_user"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="KAYBETTİNİZ.. :("
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/yapilanpuan"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:layout_centerInParent="true"
+        android:text="PUAN:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_alignLeft="@+id/home"
+        android:layout_alignStart="@+id/home"
+        android:textColor="#fff"
+        android:id="@+id/bss"
+        android:textSize="20sp"
+        android:layout_below="@+id/yapilanpuan"
+        android:text="En Yüksek Skor:"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:id="@+id/eniyiskor"
+        android:layout_below="@+id/bss"
+        android:layout_alignLeft="@+id/bss"
+        android:layout_alignStart="@+id/bss"
+        android:text="En Yüksek Skor:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:background="#ffa500"
+        android:textColor="#fff"
+        android:id="@+id/home"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:text="Ana Sayfa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</RelativeLayout>

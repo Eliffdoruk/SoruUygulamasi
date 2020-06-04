@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">proje</string>
+    <string name="k1">Fuşya bir renktir.</string>
+    <string name="k2">2x4+6=6x3 eşittir.</string>
+    <string name="k3">Yalnız kelimesi doğru yazılmıştır.</string>
+    <string name="k4">Patlıcan nikotin içerir.</string>
+    <string name="k5">C.Ronaldo bir tenis oyuncusudur.</string>
+    <string name="k6">Bihter Ziyagil kitabın sonunda çok mutludur.</string>
+    <string name="k7">Bütün rakamların çarpımı sıfırdır.</string>
+    <string name="k8">Altın en iyi iletkendir.</string>
+    <string name="k9">Pamuk, Adana için beyaz altın olarak bilinen bir bitkidir.</string>
+    <string name="k10">Kuranda indirilen ilk ayet "yaz"dır.</string>
+    <string name="k11">İsyan şarkısını Halil Sezai seslendirmiştir.</string>
+    <string name="k12">Çeşme beldesi Antalyadadır.</string>
+    <string name="k13">Nirvana grubunun solisti "Kurt Cobain"dir.</string>
+    <string name="k14">Ney üflemeli bir çalgıdır.</string>
+    <string name="k15">Oda sıcaklığında cıva metali sıvıdır.</string>
+    <string name="k16">Satrançta piyon taşı geriye hareket edemeyen tek taştır.</string>
+    <string name="k17">Semih Saygıner, golf sporu ile uğraşmaktadır.</string>
+    <string name="k18">Çanakkale, Osmanlı başkenti olmamıştır.</string>
+    <string name="k19">Eskimoların evlerine Luan denir.</string>
+    <string name="k20">Blue, bir metal müzik çeşidi değildir.</string>
+    <string name="k21">Sarımsak, yüksek kolestrol hastalığını tedavi etmede kullanılabilir.</string>
+    <string name="k22">Münir Özkul, Kel Mahmut tiplemesiyle tanınır.</string>
+    <string name="k23">Kristal, elmasın temel yapısıdır.</string>
+
+
+    <string name="o1">2018-2019 UEFA Şampiyonlar Ligi kupasını Liverpool kazanmıştır.</string>
+    <string name="o2">Karasal iklim bir iklim çeşitidir.</string>
+    <string name="o3">Baz turnusol kağıdını kırımızıya çevirir.</string>
+    <string name="o4">Kelvin bir sıcaklık ölçü birimidir.</string>
+    <string name="o5">Türk Dil Kurumuna göre "ön yargı" sözcüğü ayrı yazılır.</string>
+    <string name="o6">İnkalar Güney Amerika kıtasının yerli halkı değildir.</string>
+    <string name="o7">Mekke-Hicaz Osmanlı Devleti için özel eyaletlerdir.</string>
+    <string name="o8">2016 Dünya masa tenisi şampiyonu Japonyadır.</string>
+    <string name="o9">İstemi yabgu Türk tarihinin ilk veziri olarak bilinir.</string>
+    <string name="o10">Süleyman Seba, Beşiktaşın baba lakaplı efsane futbolcusudur.</string>
+    <string name="o11">Mantis karidesi 3 renk algılar.</string>
+    <string name="o12">Robert Lewandowskinin mevkisi orta sahadır.</string>
+    <string name="o13">Harry potter serisinin yazarı "J. K. Rowling"dir.</string>
+    <string name="o14">2016 Şampiyonlar Ligi Finali İspanyada oynanmıştır.</string>
+    <string name="o15">Yağmur suyu,saf suya daha yakındır.</string>
+    <string name="o16">Lüksemburg,Avrupa Birliği üyesidir.</string>
+    <string name="o17">Tuz ruhu simyanın kimyaya kattıklarından değildir.</string>
+    <string name="o18">Basketbol James Naismith tarafından 1891 yılında bulunmuştur.</string>
+    <string name="o19">Hugh Jackman, V For Vendetta filminde rol almıştır.</string>
+    <string name="o20">Alkolün kaynama sıcaklığı 78dir.</string>
+    <string name="o21">Dartta 3 atışta en çok alınan sayı 150dir.</string>
+    <string name="o22">Olimpiakos bir NBA takımı değildir.</string>
+    <string name="o23">2015 yılında Fransız okullarında ketçap yasaklanmıştır.</string>
+
+
+    <string name="z1">8*10+65/5-10*2=73 işlemi birbirine eşittir.</string>
+    <string name="z2">Carlos Alberto Tevez, Manchester City takımında 20 gol atmıştır.</string>
+    <string name="z3">Chicago, Barcelona, Roma ve İstanbul, aynı enlem üzerindedir.</string>
+    <string name="z4">Ahtapotların 1 tane kalbi vardır.</string>
+    <string name="z5">Bayern Münih Laliga ligindedir.</string>
+    <string name="z6">2008 yılında, Çek Cumhuriyeti maçında, Volkan Demirelin kırımızı kart görmesi ile oyundan çıkınca yerine Semih Şentürk geçmiştir.</string>
+    <string name="z7">Sherlock Holmes rolüyle ilk kez Golden Globe kazanan oyuncu Robert Downey Jr dır.</string>
+    <string name="z8">İkinci Dünya Savaşında metal bulunmadığı için, Oscar Ödülleri tahtadan yapılmıştır.</string>
+    <string name="z9">Honere De Balzac vasiyetinde tüm yazdıklarının yakılmasını istemiştir.</string>
+    <string name="z10">Halloween Elm sokağı kabusu filminde katil karakterinin ismidir.</string>
+    <string name="z11">Antiphellos tiyatrosu Alanyadadır.</string>
+    <string name="z12">Arabalarda antifiriz olarak kullanılan sıvının ana bileşeni metil fetamindir. </string>
+    <string name="z13">The Gotfather 2, ilkine göre daha fazla oskar ödülü kazanmıştır.</string>
+    <string name="z14">Japonya ve İtalya, 2. dünya savaşında almanların safındadır.</string>
+    <string name="z15">Shakespeare, Fırtına adlı eserinde mutlu bir intikamı anlatır.</string>
+    <string name="z16">2008-2009 Süper Ligde sezonun ilk iki sırada bitiren takımlar; Beşiktaş ile Sivasspordur.</string>
+    <string name="z17">Ticari sebepler Göktürklerin sona erme sebebidir.</string>
+    <string name="z18">Emniyet kemerini Volvo firması bulmuştur.</string>
+    <string name="z19">UNESCO Dünya Geçici Miras listesine giren Ballıca Mağarası Amasyadadır.</string>
+    <string name="z20">2019 yılında Pariste yangın sebebiyle ciddi hasar gören yapı Notre-Dame Katadralidir.</string>
+    <string name="z21">Genel Görecelik kuramının sahibi fizikçi bilim insani Tesladır.</string>
+    <string name="z22">Çığlık eserinin ressamı Munch dır.</string>
+    <string name="z23">Osmanlı Devletinde ilk nüfus sayımı Kanuni Sultan Süleyman döneminde yapılmıştır.</string>
+
+</resources>
